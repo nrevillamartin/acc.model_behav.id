@@ -6,6 +6,9 @@ This is the repository for the following paper:
 Revilla-Martín, N., Silva, J. P., Mougeot F., Morales M. B., Marques A. T., Mañosa S., Giralt D., Bretagnolle V., Bota G., Arroyo B., and Bravo C. *Behaviour identification and time budget estimation of the threatened Little Bustard using accelerometry.*
 
 
+
+The use of the scripts included here requires the citation of the work.
+
 In this work, we applied machine learning methods to accelerometry data to identify and classify behaviours in the little bustard (Tetrax tetrax), a species declining due to habitat loss and degradation. 
 Using recordings of four captive individuals, we fitted models to classify key behaviours: standing, lying, vigilance, locomotion, foraging and male courtship, with separate models for each sex due to behavioural differences. 
 
