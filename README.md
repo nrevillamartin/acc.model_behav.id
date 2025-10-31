@@ -22,4 +22,4 @@ Here we present the scripts for an end-to-end analysis:
   4.	Train random forest models (random-split and LOIO models) (script 4)
   5.	Calculate time-activity budgets of free ranging individuals (scripts 5, 6 and 7)
 
-
+We also present the final models, and the data used to train the models, already cut in 2-sec windows and labelled by behaviours (TETRAX_FR_AL_ALERTA_2seg).
